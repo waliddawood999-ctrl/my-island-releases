@@ -17,11 +17,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/waliddawood999-ctrl/my-island-releases/releases/latest/download/MyIsland_1.0.137_x64-setup.exe"><b>⬇️ تحميل جزيرتي لنظام Windows</b></a>
+  <a href="https://github.com/waliddawood999-ctrl/my-island-releases/releases/latest/download/MyIsland_1.0.138_x64-setup.exe"><b>⬇️ تحميل جزيرتي لنظام Windows</b></a>
 </p>
 
 <p align="center">
-  الإصدار الحالي: <b>1.0.137</b>
+  الإصدار الحالي: <b>1.0.138</b>
 </p>
 
 ## ✨ المميزات
